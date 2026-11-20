@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :mwanda binda 
+- prénom :emmanuel 
+- URL Netlify : https://r112-tp3-mwmanu.netlify.app/
 
 # Travail
 
